@@ -4,8 +4,8 @@ Olá! Eu sou o Pablo Tomaz
 - 🌱 Atualmente estou estudando C# com foco em desenvolvimento web com Blazor 
 <div>
   <a href="https://github.com/PabloTomaz">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=PabloTomaz&show_icons=true&theme=transparent"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloTomaz&layout=compact&theme=transparent"/>
+  <img height="172cm" src="https://github-readme-stats.vercel.app/api?username=PabloTomaz&show_icons=true&theme=transparent"/>
+  <img height="172cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloTomaz&layout=compact&theme=transparent"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
