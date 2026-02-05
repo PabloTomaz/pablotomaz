@@ -1,7 +1,7 @@
 Olá! Eu sou o Pablo Tomaz 
 - 🤖 Graduando em Analise e Desenvolvimento de Sistemas
 - 💭 Machine Learnig e Eng.Sofware
-- 🌱 Atualmente estou estudando C# com foco em desenvolvimento web com Blazor 
+- 🌱 Desenvolvedor Front-end / Suporte tecnico 
 <div>
   <a href="https://github.com/PabloTomaz">
   <img height="172cm" src="https://github-readme-stats.vercel.app/api?username=PabloTomaz&show_icons=true&theme=transparent"/>
@@ -10,6 +10,8 @@ Olá! Eu sou o Pablo Tomaz
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pablo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Pablo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pablo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Pablo-Blazor" height="30" width="40"
