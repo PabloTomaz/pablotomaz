@@ -1,7 +1,8 @@
 Olá! Eu sou o Pablo Tomaz 
 - 🤖 Graduando em Analise e Desenvolvimento de Sistemas
 - 💭 Machine Learnig e Eng.Sofware
-- 🌱 Desenvolvedor Front-end / Suporte tecnico 
+- 🌱 Desenvolvedor Front-end / Suporte tecnico
+- 🤓 Estudando JavaScript e aplicação do Framework Angular 
 <div>
   <a href="https://github.com/PabloTomaz">
   <img height="172cm" src="https://github-readme-stats.vercel.app/api?username=PabloTomaz&show_icons=true&theme=transparent"/>
